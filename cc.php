@@ -88,6 +88,7 @@
       }
 	  //krisna elek
 	  //baris iki tak rubah 
+	  //didin yang pertama
     </script>
   </head>
   <body>
