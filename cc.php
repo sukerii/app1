@@ -88,6 +88,7 @@
       }
 	  //krisna elek
 	  //baris iki tak rubah 
+	  //andik join
     </script>
   </head>
   <body>
