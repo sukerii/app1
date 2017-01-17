@@ -89,6 +89,7 @@
 	  //krisna elek
 	  //baris iki tak rubah 
 	  //didin yang pertama
+	  //andik
     </script>
   </head>
   <body>
