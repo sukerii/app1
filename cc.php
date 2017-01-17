@@ -15,7 +15,7 @@
         float: left;
         padding-left: 10px;
         padding-right: 10px;
-
+		//krisna lagi
       }
       /* Optional: Makes the sample page fill the window. */
       html, body {
