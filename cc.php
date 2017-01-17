@@ -9,6 +9,13 @@
        * element that contains the map. */
       #map {
         height: 100%;
+        width: 95%;
+        height: 75%;
+        overflow: auto;
+        float: left;
+        padding-left: 10px;
+        padding-right: 10px;
+
       }
       /* Optional: Makes the sample page fill the window. */
       html, body {
@@ -17,6 +24,11 @@
         padding: 0;
       }
     </style>
+        <h1>Komputasi Awan - Project</h1>
+        <p>
+        Map yang menentukan toko dan atm terdekat dari stiki malang dengan radius 500 meter
+        </p>
+
     <script>
       // This example requires the Places library. Include the libraries=places
       // parameter when you first load the API. For example:
@@ -83,12 +95,3 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdEqu7Fworb5KwmQtReKeghN-NO1SJgbs&libraries=places&callback=initMap" async defer></script>
   </body>
 </html>
-
-git clone https://github.com/andiksiswanto9/cc.git $didin
-
-- Buat Folder : YUDHA=~/src/latihan4444/latihan44
-- Cloning Github ke folder : git clone https://github.com/sysaputra/Youtube-Converter.git $YUDHA
-- Masuk ke folder : cd $YUDHA
-- Masuk ke branch gcloud : git checkout gcloud
-- Deploy ke Web preview : dev_appserver.py --php_executable_path=/usr/bin/php-cgi $PWD 
-nyoba
